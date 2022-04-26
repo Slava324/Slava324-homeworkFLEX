@@ -78,7 +78,8 @@
 }
 
 .last__block{
-    width: 1900;
+    margin: 0 auto;
+    max-width: 1920px;
     background: #222222;
     height: 200px;
     border: 2px dashed;
