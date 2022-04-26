@@ -69,13 +69,11 @@
     position: absolute;
     top: 32px;
     right: 0;
-    opacity: 0;
     line-height: 2;
     display: none;
 }
 
 .header__shoppingCart:hover .hidden__block{
-    opacity: 1;
     display: block;
 }
 
