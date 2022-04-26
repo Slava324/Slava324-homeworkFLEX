@@ -30,6 +30,7 @@
 
 .header__menu-items ul a{
     padding: 4px 10px;
+    border-radius: 5px;
     text-decoration: none;
     color: #f9f9f9;
     font-family: sen;
