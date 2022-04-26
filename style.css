@@ -29,6 +29,7 @@
 }
 
 .header__menu-items ul a{
+    padding: 4px 10px;
     text-decoration: none;
     color: #f9f9f9;
     font-family: sen;
@@ -77,6 +78,11 @@
 
 .header__shoppingCart:hover .hidden__block{
     display: block;
+}
+
+.header__menu-items ul a:hover{
+    background-color: #222222;
+
 }
 
 .last__block{
